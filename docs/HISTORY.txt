@@ -7,7 +7,7 @@ Changelog
 - Remove dependency on Grok and use Dexterity 2 way with plone.supermodel to
   define the schema.
   [thet]
-
+- missing i18n.js from Products.Maps [mauro]
 
 1.1.0.2 (2012-09-21)
 --------------------
